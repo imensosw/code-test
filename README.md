@@ -1,4 +1,4 @@
-# code-test
+Create a simple sign up and login process using core PHP.
 
 # Sing Up
 
