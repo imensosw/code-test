@@ -8,8 +8,8 @@ Create a sign up page with the following fields:
 
 First Name
 Last Name
-Email (As a username)
-Phone Number with Country code
+Email (as a username)
+Phone Number with Country Code
 Password
 Confirm Password
 
